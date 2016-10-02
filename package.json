@@ -1,0 +1,26 @@
+{
+  "name": "shablonhabr",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "AndreyOvchinnikov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-imagemin": "*",
+    "gulp-minify-css": "*",
+    "gulp-rename": "^1.2.2",
+    "gulp-rigger": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "imagemin-pngquant": "*",
+    "rimraf": "*"
+  },
+  "dependencies": {
+    "normalize.css": "^4.2.0"
+  }
+}
